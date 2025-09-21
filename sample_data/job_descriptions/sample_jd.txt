@@ -1,0 +1,5 @@
+Job Title: Data Science Intern
+Must-Have Skills: Python, Machine Learning, SQL
+Good-To-Have Skills: Flask, Streamlit, Data Visualization
+Education: B.Tech in Computer Science or related field
+Experience: Projects in Data Science or ML

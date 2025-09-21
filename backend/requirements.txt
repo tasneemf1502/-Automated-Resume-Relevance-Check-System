@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+python-docx
+pdfplumber
+PyMuPDF
+spacy
+fuzzywuzzy
+sentence-transformers
+openai
+sqlalchemy
+pydantic
+python-dotenv
